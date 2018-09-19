@@ -1,0 +1,72 @@
+body {
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#fefcea+0,f1da36+100;Gold+3D */
+  background: #f9c13e; /* Old browsers */
+  background: -moz-linear-gradient(top, #f9f2db 0%, #f9c13e 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #f9f2db 0%,#f9c13e 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #f9f2db 0%,#f9c13e 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f9f2db', endColorstr='#f9c13e'GradientType=0 ); /* IE6-9 */    margin: 80px;
+  padding: 10px;
+  }
+  
+h2 {
+  color: #d8460b;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2em;
+  padding-top: 30px;
+  margin-left: 100px; 
+  text-align: left;
+  width: 100%;
+  }
+  
+#intro {
+  font-style: italic;
+}
+
+p {
+  color: #4c483f;
+  font-family: 'Playfair Display', serif;
+  margin-left: 100px;
+  margin-right: 100px;
+  text-align: justify;
+    
+  }
+  
+.image {
+  background-image: url("https://lh3.googleusercontent.com/ZaYJmCTl47UI_WK27uAJ_VVnMirQ3Bn63M-sdNehK3I2SaX8-fXPDezV25pBsOjccyng6riipT5D6eIjNCuGo5HyEy_37yPdyTYHQ28aJauoLf3t1YiZutPRZabeX2h3AcXI1FriHOeDyUYfkCCf_CuuaR75axS_qyaLlYMn8VnGIA-zhdqu0DPbIdauLo1kAQ4MYDSOAD3Ek-BVOOVOo-L5H3a57Griv44KwuwvrPLdfBDphxP8c2RtWF7LSVU3mjBSrha9aica0NN0GumLA5L-z-aIBpoatK9xbLo0Zus1xjzmqo0cp1yypbw7F9bL0DacRMBdy0YdWn2ySTDRmZSYfJY7tVcVIsMA8mowPqEBQoSYSN5XiN7vy3h1ftnIY5svnC8vkRYWcFK6E-6ZDdAJ_N7IDVIUsunuGnuCn2coKRGO5Sck4R-NYM4998YEB7-Za5v2auzom-ihdbhRv3npZ7zDD0u26PVeGho1OFTM0KZXH3ZQJC05hB0EzOgNzIMyB-9sBE3wbTBrVYvHdWFyiZ07VriKyl8_gm-bLweSeWAGq5jFPDVkgnvot2FELGvbAakujPg9Qobn_lZJIimz7QlyYXRC3KCttW9z6UztaPm4fFoLFmVET_tGnGM=w960-h211-no");
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+  }
+  
+  
+.caption {
+  background-color: #F9F2DB;
+  color: #007291;
+  display: block;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 44px;
+  font-style: bold;
+  line-height: 24px;
+  margin-left: 20px;
+  opacity: 0.75;
+  padding: 10px;
+  position: relative;
+  top: 80%;
+  width: 35%;
+  }
+
+.image2 {
+  background-position: center;
+  height: 350px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 30px;
+  width: 50%;
+  }
+
+footer {
+    padding-top: 70px;
+  }
+
+
